@@ -26,7 +26,7 @@ html{
     justify-content: center;
     width: 60px;
     height: 60px;
-    background-image: url('h_images/grp16..png');
+    background-image: url('grp16..png');
     background-size: cover;
     
 
@@ -56,7 +56,7 @@ html{
 
 }
 .back{
-    background-image: url('h_images/hostel.jpg');
+    background-image: url('hostel.jpg');
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -250,7 +250,7 @@ details .two p{
 }
 
 .team{
-    background-image: url('h_images/studyroom.jpg');
+    background-image: url('studyroom.jpg');
     display: flex;
     width: 100vw;
     height: auto;
